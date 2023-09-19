@@ -9,7 +9,7 @@ Lecture slides, wiki and examples from Block 1 of the [Creative Computing Instit
 - Location: [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London and online!
 - Senior Lecturer in Creative Computing and Course Leader, Apple Development: [Joel Gethin Lewis](https://joelgethinlewis.com/). Contact me via the [UAL CCI Slack](https://ual-cci.slack.com).
 - Weekly schedule:
-  - Monday: 1030-1300: Slack 1-1 tutorials. For more information and detailed schedule, see [the course wiki tutorial page](https://github.com/JGL/DiplomaInAppleDevelopment-AutumnWinter2022/wiki/Tutorial-Schedule). If **your next** tutorial is too far away, or you have a more urgent question, please message me on the [UAL CCI Slack](https://ual-cci.slack.com).
+  - Monday: 1030-1300: Slack 1-1 tutorials. For more information and detailed schedule, see [the course wiki tutorial page](https://github.com/JGL/DiplomaInAppleDevelopment-AutumnWinter2023/wiki/Tutorial-Schedule). If **your next** tutorial is too far away, or you have a more urgent question, please message me on the [UAL CCI Slack](https://ual-cci.slack.com).
   - Tuesday: 0930-1330, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501-01, taught by [Joel Gethin Lewis](https://joelgethinlewis.com).
     - Block 1: Coding One: Swift and Swift UI
     - Block 2: Coding Two: Further Apple Frameworks
