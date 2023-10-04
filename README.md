@@ -186,9 +186,7 @@ Block 2 consists of three units, studied in parallel:
 
 ## Disability Service information
 
-The Disability Adviser for Creative Computing Institute is Carys Kennedy. Her contact details are c.kennedy@arts.ac.uk or 020 7514 7055. She works work Monday to Thursday, and is based at Camberwell Student Centre on Wednesdays.
-
-All appointments are confidential, and can be in-person, on the phone, or on Microsoft Teams.
+The Disability Adviser for Creative Computing Institute is Becky Keen. Her contact details are b.keen@arts.ac.uk. All appointments are confidential, and can be in-person, on the phone, or on Microsoft Teams.
 
 ### Who can access support
 
