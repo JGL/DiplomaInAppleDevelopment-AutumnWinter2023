@@ -186,7 +186,7 @@ Block 2 consists of three units, studied in parallel:
 
 ## Disability Service information
 
-The Disability Adviser for Creative Computing Institute is Becky Keen. Her contact details are b.keen@arts.ac.uk. All appointments are confidential, and can be in-person, on the phone, or on Microsoft Teams.
+The Disability Adviser for Creative Computing Institute is Chris Bambling . Their contact details are c.bambling@arts.ac.uk. All appointments are confidential, and can be in-person, on the phone, or on Microsoft Teams.
 
 ### Who can access support
 
